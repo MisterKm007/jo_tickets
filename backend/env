@@ -1,0 +1,3 @@
+DATABASE_URL=postgresql://postgres:TicketOlympic2024@db.fnkgcckdyyvtgwwdakzp.supabase.co:5432/postgres
+SECRET_KEY=SmartTicketParis2024
+ALGORITHM=HS256
